@@ -1,5 +1,5 @@
 import streamlit as st
-from constants import PRODUCT_DESCRIPTION_FEW_SHOT, DEFAULT_MODEL
+from constants import DEFAULT_MODEL
 from constants import client
 from ai21.models import Penalty
 
